@@ -1,0 +1,2 @@
+function today_date() {
+}
